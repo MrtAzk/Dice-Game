@@ -7,5 +7,5 @@ export default defineConfig({
   base: '/Dice-Game/',
   plugins: [react(),
     tailwindcss()
-  ],
+  ]
 })
